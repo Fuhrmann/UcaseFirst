@@ -9,3 +9,8 @@ This is an addon for the forum software XenForo. Adjust the thread title *automa
 
 
 
+## 1.0.0
+- Released
+
+
+
